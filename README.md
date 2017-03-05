@@ -10,9 +10,10 @@ No caso dos municípios e no tema específico, os dados de 2003 foram considerad
 
 Uma vez que se tenha um dataset com dados históricos sobre Incidência da Pobreza, seria necessário levantar os recursos de Combate à Pobreza que foram transferidos a estes municípios e relacionar as variáveis envolvidas no sentido de entender o progresso dos municípios frente à posição inicial no ranking, progresso histórico e recursos recebidos, tudo isso considerando o contexto socioeconômico mensurável de cada realidade.
 
-Participaram da reunião:
+**Participaram da reunião**
 
     Vinícius Melo
     Ricardo Sodré Andrade
     Daniel Mascarenhas
     Rafael "Químico"
+    Edely
