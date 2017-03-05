@@ -12,7 +12,7 @@ Uma vez que se tenha um dataset com dados históricos sobre Incidência da Pobre
 
 Participaram da reunião:
 
-Vinícius Melo
-Ricardo Sodré Andrade
-Daniel Mascarenhas
-Rafael "Químico"
+    Vinícius Melo
+    Ricardo Sodré Andrade
+    Daniel Mascarenhas
+    Rafael "Químico"
